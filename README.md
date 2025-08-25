@@ -44,3 +44,20 @@ Crime-Pattern-Detection-Using-DBSCAN-Clustering/
 ├── clustering.py                 # Clustering logic (optional)
 ├── requirements.txt              # Required libraries
 └── README.md                     # This file
+
+How to Run
+Clone the repository:
+git clone https://github.com/sWAGish/Crime-Pattern-Detection-DBSCAN.git
+cd Crime-Pattern-Detection-DBSCAN
+Install dependencies:
+pip install -r requirements.txt
+Run the notebook: jupyter notebook CrimePatternDetection.ipynb
+
+📌 Example Outputs
+📍 Interactive crime maps
+
+🟣 DBSCAN cluster plots
+
+🔴 Noise/outlier detection
+
+📈 Visual cluster summaries
